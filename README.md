@@ -30,23 +30,23 @@ Here's a brief overview of the folder structure:
 my-microfinance-website/
 ├── components/
 │   ├── AboutUs/
-│   │          ├── AboutUs.Module.css
-│   │          ├──page.tsx
+│   │                   ├── AboutUs.Module.css
+│   │                   ├──page.tsx
 │   ├── ApplicationForm/
-│   │                  ├── ApplicationForm.Module.css
-│   │                  ├──page.tsx
+│   │                   ├── ApplicationForm.Module.css
+│   │                   ├──page.tsx
 │   ├── ApplicationProcess/
-│   │                     ├── ApplicationProcess.Module.css
-│   │                     ├──page.tsx
+│   │                   ├── ApplicationProcess.Module.css
+│   │                   ├──page.tsx
 │   ├── FAQ/
-│   │      ├── FAQ.Module.css
-│   │      ├──page.tsx
+│   │                   ├── FAQ.Module.css
+│   │                   ├──page.tsx
 │   ├── Footer/
-│   │         ├── Footer.Module.css
-│   │         ├──page.tsx
+│   │                   ├── Footer.Module.css
+│   │                   ├──page.tsx
 │   ├── Header/
-│             ├── Header.css
-│             ├──page.tsx
+│                       ├── Header.css
+│                       ├──page.tsx
 ├── pages/
 │   ├── _app.tsx
 │   ├── index.tsx
