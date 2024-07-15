@@ -1,0 +1,17 @@
+.header {
+  background-color: #1702ff;
+  display: flex; 
+  justify-content: center; 
+}
+
+.toolbar {
+  width: 100%; 
+  display: flex; 
+  justify-content: center; 
+}
+
+.title {
+  color: white;
+  padding: 10px;
+  text-align: center; 
+}
